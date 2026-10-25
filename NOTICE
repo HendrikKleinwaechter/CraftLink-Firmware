@@ -1,0 +1,17 @@
+CraftLink (Firmware für ControlHub)
+Copyright (c) 2026 Hendrik Kleinwächter
+
+Firmware, Anleitung und Bilder in diesem Repo: MIT-Lizenz (siehe LICENSE) – Open Source.
+Du darfst alles nutzen, ändern, weitergeben und auch verkaufen; der Copyright- und
+Lizenzhinweis muss dabei bleiben.
+
+Fremdkomponenten: Die fertigen .uf2-Dateien in fertig/ enthalten Teile von arduino-pico,
+Raspberry Pi Pico SDK, TinyUSB und (nur Pico W / Pico 2 W) cyw43-driver. Für diese Teile
+gelten ihre eigenen Lizenzen, siehe THIRD-PARTY-LICENSES.md und den Ordner LICENSES/.
+
+Namen und Logo
+--------------
+"ControlCraft", "CraftConsole" und "CraftLink" sowie das Logo sind Namen von Hendrik
+Kleinwächter (Markenanmeldung geplant). Die MIT-Lizenz gilt für den Code und die Doku,
+nicht für diese Namen: Eigene Abwandlungen bitte unter einem anderen Namen veröffentlichen
+und nicht so auftreten, als kämen sie von Hendriks Werkstatt.

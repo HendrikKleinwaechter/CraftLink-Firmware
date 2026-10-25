@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+._*
+Thumbs.db
+
+# Arduino-Build
+build/
+
+# Nur Code ins Repo (Hendrik 21.10.2026): keine KI-/Planungsdateien
+.claude/
+CLAUDE.md
